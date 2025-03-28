@@ -1,6 +1,6 @@
 {
-    "name": "abt",
-    "short_name": "abt",
+    "name": "site",
+    "short_name": "site",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
